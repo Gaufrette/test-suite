@@ -1,0 +1,10 @@
+{
+    "name": "gaufrette/test-suite",
+    "authors": [
+        {
+            "name": "Albin Kerouanton",
+            "email": "albin.kerouanton@knplabs.com"
+        }
+    ],
+    "require": {}
+}
